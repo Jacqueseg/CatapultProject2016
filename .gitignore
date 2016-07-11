@@ -55,4 +55,8 @@ Temporary Items
 *.DS_store
 Temp/
 Library/
-Obj/
+Obj/ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/UnityAnalyticsManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/UnityConnectSettings.asset
